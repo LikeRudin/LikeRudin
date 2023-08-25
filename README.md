@@ -1,14 +1,40 @@
-### Hi there 👋
 
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LikeRudin&show_icons=true&theme=radical)
-
+<div class="body-2" align="center">
+ <h2> 🛠 Tech Stack 🛠 </h2>
+ <table>
+   <tr>
+    <td align="center">
+    <div>
+      <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+    </div>
+    <div>
+      <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+      <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    </div>
+    <div>
+      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/typescript-ffffff?style=for-the-badge&logo=typescript&logoColor=blue"/>
+    </div>
+    <div>
+      <img src="https://img.shields.io/badge/express-fff?style=for-the-badge&logo=express&logoColor=black"/>
+      <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </div>
+    <div>
+      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    </div>
+    </td>
+    <td>
+     <img src="https://github-readme-stats.vercel.app/api?username=LikeRudin&show_icons=true&theme=radical"/>
+    </td>
+   </tr>
+ </table>
+</div>
 
 
 - 🔭 I’m currently working on ...
-      -  express.js를 사용한 CRM
+    -  express.js를 사용한 CRM
  
 - 🌱 I’m currently learning ... 
   -  클린코드스터디:
@@ -16,6 +42,7 @@
   -  CS
       -  : https://github.com/LikeRudin/CSInANutShell/tree/master/%EC%98%81%EC%A7%84
 
-- 📫 How to reach me: ... blueskyto@me.com
-
-- 😄 Pronouns: ... 함께 새로운것을 배우고, 가르치고, 향유해요
+- 📫 How to reach me: ...
+    - blueskyto@me.com
+    -   <a href="https://www.linkedin.com/in/young-jin-shin-680756279/
+  "> <img src="https://img.shields.io/badge/linkedin-007ACC?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
