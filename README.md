@@ -1,8 +1,8 @@
 
 <div class="body-2" align="center">
  <h2> 🛠 Tech Stack 🛠 </h2>
- <table>
-   <tr>
+ <table style="background-color: tomato;">
+   <tr style="background-color: tomato;">
     <td align="center">
     <div>
       <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -13,8 +13,12 @@
       <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     </div>
     <div>
+     <div style="border: 2px solid black;">
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/typescript-ffffff?style=for-the-badge&logo=typescript&logoColor=blue"/>
+     </div>
+     <div style="border: 2px solid black;">
+      <img src="https://img.shields.io/badge/typescript-ffffff?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
+     </div>
     </div>
     <div>
       <img src="https://img.shields.io/badge/express-fff?style=for-the-badge&logo=express&logoColor=black"/>
