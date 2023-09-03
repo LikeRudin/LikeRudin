@@ -38,7 +38,7 @@
 
 
 - 🔭 I’m currently working on ...
-    -  express.js를 사용한 CRM
+    -  express.js를 사용한 CRM 제작중 https://github.com/LightCRM
  
 - 🌱 I’m currently learning ... 
   -  클린코드스터디:
