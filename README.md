@@ -1,3 +1,4 @@
+I love Learning❤
 
 <div class="body-2" align="center">
  <h2> 🛠 Tech Stack 🛠 </h2>
@@ -50,3 +51,4 @@
     - blueskyto@me.com
     -   <a href="https://www.linkedin.com/in/young-jin-shin-680756279/
   "> <img src="https://img.shields.io/badge/linkedin-007ACC?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
