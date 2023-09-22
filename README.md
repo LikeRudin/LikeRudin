@@ -43,13 +43,9 @@
     -  nest.js로 교체결정
  
 - 🌱 I’m currently learning ... 
-  -  책: 로버트 마틴C의 클린코드 북스터디
-      -  https://batcave.tistory.com/category/CS%EA%B3%B5%EB%B6%80%28%EA%B0%9C%EB%85%90%29/%EB%8F%85%ED%9B%84%EA%B0%90
+  -  Tech: 리액트 10주 스터디
   -  CS: 전체적인 cs 전공과정 스터디
       -  : https://github.com/LikeRudin/CSInANutShell/tree/master/%EC%98%81%EC%A7%84
-  - 테크
-     - 노마드 코더에서 주관하는 리액트 10주 스터디
-     - react, next 라이브러리와 네트워크 통신관련 기술을 공부할 예정
 
 - 📫 How to reach me: ...
     - blueskyto@me.com
