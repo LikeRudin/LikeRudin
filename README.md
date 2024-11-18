@@ -43,9 +43,8 @@
     - Teaching Assistant at Nomadcoders.co
  
 - 🌱 I’m currently learning ... 
-  -  Tech: 리액트 10주 스터디
-  -  CS: 전체적인 cs 전공과정 스터디
-      -  : https://github.com/LikeRudin/CSInANutShell/tree/master/%EC%98%81%EC%A7%84
+  -  Tech: Python web development - streamlit / django
+ 
 
 - 📫 How to reach me: ...
     - blueskyto@me.com
