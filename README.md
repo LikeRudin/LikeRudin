@@ -39,8 +39,8 @@
 
 
 - 🔭 I’m currently working on ...
-    -  express.js를 사용한 사이드프로젝트 참여중 https://github.com/LightCRM
-    -  nest.js로 교체결정
+    - https://github.com/LightCRM
+    - Teaching Assistant at Nomadcoders.co
  
 - 🌱 I’m currently learning ... 
   -  Tech: 리액트 10주 스터디
