@@ -41,9 +41,10 @@
 - 🔭 I’m currently working on ...
     - https://github.com/LightCRM
     - Teaching Assistant at Nomadcoders.co
+    - Small Product Owner with 60 users
  
 - 🌱 I’m currently learning ... 
-  -  Tech: Python web development - streamlit / django
+  -  How to build home server  
  
 
 - 📫 How to reach me: ...
