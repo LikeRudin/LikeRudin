@@ -44,7 +44,7 @@
     - Small Product Owner with 60 users
  
 - 🌱 I’m currently learning ... 
-  -  How to build home server  
+  -  Agent Orchestration / Boxing
  
 
 - 📫 How to reach me: ...
