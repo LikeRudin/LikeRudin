@@ -39,12 +39,11 @@
 
 
 - 🔭 I’m currently working on ...
-    - https://github.com/LightCRM
     - Teaching Assistant at Nomadcoders.co
     - Small Product Owner with 60 users
  
 - 🌱 I’m currently learning ... 
-  -  Agent Orchestration / Boxing
+  -   Boxing
  
 
 - 📫 How to reach me: ...
